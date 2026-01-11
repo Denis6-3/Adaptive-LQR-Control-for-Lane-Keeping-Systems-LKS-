@@ -338,4 +338,5 @@ The project concludes with a complete **Co-Simulation setup** linking the MATLAB
 
 **Check out the final demonstration video:**
 
+https://github.com/user-attachments/assets/3a9baebc-6c84-4a5f-a4c9-ec3d1d91158d
 
